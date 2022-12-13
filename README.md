@@ -3,5 +3,5 @@
 `This repo contains collated opensource IOC's`
 
 * Hashes
-* Doamins
+* Domains
 * Files
