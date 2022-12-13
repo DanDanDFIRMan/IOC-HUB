@@ -1,3 +1,6 @@
 # Qakbot
 
 ureterogram.js
+NewInvoice.cmd
+DOC_FI7820.lnk
+newrules.get
