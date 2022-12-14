@@ -4,3 +4,13 @@ ureterogram.js
 NewInvoice.cmd
 DOC_FI7820.lnk
 newrules.get
+NewInformation.cmd
+YouContract.cmd
+NeedChangeRules.bin
+ChangeRules.lc
+2c60000.dll
+3270000.dll
+SCAN_TJ3435.img
+SCANED_LR8490.img
+SCAN_TJ3435.lnk
+SCANED_LR8490.lnk
