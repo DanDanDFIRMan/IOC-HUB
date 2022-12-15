@@ -14,3 +14,5 @@ SCAN_TJ3435.img
 SCANED_LR8490.img
 SCAN_TJ3435.lnk
 SCANED_LR8490.lnk
+14.lnk
+opengl.dat
