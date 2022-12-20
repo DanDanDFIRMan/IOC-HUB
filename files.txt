@@ -16,3 +16,10 @@ SCAN_TJ3435.lnk
 SCANED_LR8490.lnk
 14.lnk
 opengl.dat
+deskmon.dat
+Summary_5658050_12192022.lnk
+Summary_3589688_12192022.zip
+Summary_3448527_12192022.zip
+Summary_6253704_12192022.zip
+Summary_6138750_12192022.zip
+Summary_5658050_12192022.zip
