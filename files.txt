@@ -22,3 +22,6 @@ Summary_3448527_12192022.zip
 Summary_6253704_12192022.zip
 Summary_6138750_12192022.zip
 Summary_5658050_12192022.zip
+cursor.dat
+12202022.lnk
+DocumentsFolder_XXXXXX_12202022.zip
